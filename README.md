@@ -1,6 +1,16 @@
 # ![github-header-image (5)](https://github.com/eslansa/eslansa/assets/107078658/9cf52e37-6849-4ae7-a6fb-0abd23a4740a)
 
-✏️Estudiante de Ingienería en Ciencias Informáticas, Desarrollador Web. Soy de Cuba, tengo 22 años. Me defino por ser una persona con ganas de aprender, creativo y espontáneo. Me gustan los retos.
+✏️ BIO
+Estudiante de Ingienería en Ciencias Informáticas, Desarrollador Web. Soy de Cuba, tengo 22 años. Me defino por ser una persona con ganas de aprender, creativo y espontáneo. Me gustan los retos.
+
+🚀 BLOG: https://eslan.pages.dev
+
+💡 PORTFOLIO: https://eslansa.pages.dev
+
+💻 Otros Proyectos: 
+Adrenalina y Turismo: https://airbnb-clone-ae3.pages.dev
+Cepil: https://cepil-web.pages.dev
+Buscador de Películas: https://buscador-peliculas.pages.dev
 
 💬 Social
 
