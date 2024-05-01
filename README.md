@@ -8,8 +8,11 @@ Estudiante de Ingienería en Ciencias Informáticas, Desarrollador Web. Soy de C
 💡 PORTFOLIO: https://eslansa.pages.dev
 
 💻 Otros Proyectos: 
+
 Adrenalina y Turismo: https://airbnb-clone-ae3.pages.dev
+
 Cepil: https://cepil-web.pages.dev
+
 Buscador de Películas: https://buscador-peliculas.pages.dev
 
 💬 Social
