@@ -1,4 +1,5 @@
-# Bienvenid@ al Github de Eslán Sánchez <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJlMXoxeTRjMzhjeGVidTU4cWx4cHNjN3g5czcyMjdqY3l3ejdhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="100"/> 
+# ![github-header-image](https://github.com/eslansa/eslansa/assets/107078658/0a9d41d6-4b07-4ac7-8bac-516b50366e7a)
+
 
 Soy Eslán Sánchez.
 Estudiante de Ingienería en Ciencias Informáticas, Desarrollador Web. Soy de Cuba, tengo 22 años. Me defino por ser una persona con ganas de aprender, creativo y espontáneo. Me gustan los retos.
