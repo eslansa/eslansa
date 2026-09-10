@@ -72,5 +72,3 @@ no compilan, conflictos de dependencias en Gradle.
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eslan.pages.dev)
 
 **¿Tienes una app que construir, o una que se rompió?**
-```
-
