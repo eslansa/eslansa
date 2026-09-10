@@ -2,11 +2,11 @@
 
 ✏️ BIO
 
-Estudiante de Ingienería en Ciencias Informáticas, Desarrollador Web. Soy de Cuba, tengo 22 años. Me defino por ser una persona con ganas de aprender, creativo y espontáneo. Me gustan los retos.
+Ingeniero en Ciencias Informáticas, Desarrollador Web. Soy de Cuba, tengo 25 años. Me defino por ser una persona con ganas de aprender, creativo y espontáneo. Me gustan los retos.
 
 🚀 BLOG: https://eslan.pages.dev
 
-💡 PORTFOLIO: https://eslansa.pages.dev
+
 
 💻 Otros Proyectos: 
 
